@@ -4,3 +4,4 @@ duckdb
 plotly>=5.8
 graphviz
 brickschema
+matplotlib
