@@ -1,6 +1,6 @@
-pandas^=1.4
-rdflib^=6.1
+pandas>=1.4
+rdflib>=6.1
 duckdb
-plotly^=5.8
+plotly>=5.8
 graphviz
 brickschema
